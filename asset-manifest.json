@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/etraffic/static/css/main.454b8701.css",
-    "main.js": "/etraffic/static/js/main.ca53318f.js",
+    "main.css": "/etraffic/static/css/main.87f956d0.css",
+    "main.js": "/etraffic/static/js/main.8564ede2.js",
     "static/js/787.00a617e0.chunk.js": "/etraffic/static/js/787.00a617e0.chunk.js",
     "index.html": "/etraffic/index.html",
-    "main.454b8701.css.map": "/etraffic/static/css/main.454b8701.css.map",
-    "main.ca53318f.js.map": "/etraffic/static/js/main.ca53318f.js.map",
+    "main.87f956d0.css.map": "/etraffic/static/css/main.87f956d0.css.map",
+    "main.8564ede2.js.map": "/etraffic/static/js/main.8564ede2.js.map",
     "787.00a617e0.chunk.js.map": "/etraffic/static/js/787.00a617e0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.454b8701.css",
-    "static/js/main.ca53318f.js"
+    "static/css/main.87f956d0.css",
+    "static/js/main.8564ede2.js"
   ]
 }
